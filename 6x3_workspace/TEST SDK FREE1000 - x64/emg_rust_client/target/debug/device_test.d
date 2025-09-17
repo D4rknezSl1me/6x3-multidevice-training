@@ -1,0 +1,1 @@
+C:\Users\xianc\Desktop\6x3-multidevice-training\6x3_workspace\TEST\ SDK\ FREE1000\ -\ x64\emg_rust_client\target\debug\device_test.exe: C:\Users\xianc\Desktop\6x3-multidevice-training\6x3_workspace\TEST\ SDK\ FREE1000\ -\ x64\emg_rust_client\src\device_test.rs C:\Users\xianc\Desktop\6x3-multidevice-training\6x3_workspace\TEST\ SDK\ FREE1000\ -\ x64\emg_rust_client\src\lib.rs
